@@ -1,13 +1,13 @@
 Package: dtPipe
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Pipeable functions to improve data.table's readability
+Version: 0.0.0.9
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Matías",
+           family = "Castillo Aguilar",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "matcasti@umag.cl",
+           comment = c(ORCID = "0000-0001-7291-247X"))
+Description: Providing functions that can be piped next to a data.table for readability.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
